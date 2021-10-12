@@ -1,1 +1,1 @@
-### Repo for examples implementation any design patterns on the JavaScript/TypeScript
+### Repo for examples implementation some design patterns on the JavaScript/TypeScript
