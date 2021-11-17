@@ -1,7 +1,7 @@
 // Example SINGLETON pattern on the example Stack data structure
 
 class Stack {
-    static getInsctance() {
+    static getInstance() {
         if (!Stack.instance) {
             Stack.instance = new Stack();
         }
@@ -27,10 +27,10 @@ class Stack {
 }
 
 const main = () => {
-    const foo = Stack.getInsctance();
+    const foo = Stack.getInstance();
     foo.push('Chill');
     foo.push('Hero');
-    const bar = Stack.getInsctance();
+    const bar = Stack.getInstance();
     console.log(bar);
 }
 
