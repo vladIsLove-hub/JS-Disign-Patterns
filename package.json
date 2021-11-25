@@ -1,8 +1,7 @@
 {
   "name": "js-disign-patterns",
   "version": "1.0.0",
-  "description": "1) ```Signleton``` - <a href=\"https://github.com/vladIsLove-hub/JS-Disign-Patterns/tree/master/Singleton\">Look</a>\r 2) ```Abstract Factory``` - <a href=\"https://github.com/vladIsLove-hub/JS-Disign-Patterns/tree/master/Abstract-factory\">Look</a>\r 3) ```Builder``` - <a href=\"https://github.com/vladIsLove-hub/JS-Disign-Patterns/tree/master/Builder\">Look</a>\r 4) ```Adapter``` - <a href=\"https://github.com/vladIsLove-hub/JS-Disign-Patterns/tree/master/Adapter\">Look</a>\r 4) ```Decorator``` - <a href=\"https://github.com/vladIsLove-hub/JS-Disign-Patterns/tree/master/Decorator\">Look</a>\r 4) ```Bridge``` - <a href=\"https://github.com/vladIsLove-hub/JS-Disign-Patterns/tree/master/Bridge\">Look</a>",
-  "main": "index.js",
+  "description": "Design patterns",
   "scripts": {
     "watch": "npx tsc --watch"
   },
@@ -10,8 +9,8 @@
     "type": "git",
     "url": "git+https://github.com/vladIsLove-hub/JS-Disign-Patterns.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["JS", "TS", "Design Patterns", "GoF"],
+  "author": "vladIsLove-hub <vladislovedeveloper@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/vladIsLove-hub/JS-Disign-Patterns/issues"

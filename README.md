@@ -8,3 +8,4 @@
 4) ```Adapter``` - <a href="https://github.com/vladIsLove-hub/JS-Disign-Patterns/tree/master/Adapter">Look</a>
 4) ```Decorator``` - <a href="https://github.com/vladIsLove-hub/JS-Disign-Patterns/tree/master/Decorator">Look</a>
 4) ```Bridge``` - <a href="https://github.com/vladIsLove-hub/JS-Disign-Patterns/tree/master/Bridge">Look</a>
+4) ```Facade``` - <a href="https://github.com/vladIsLove-hub/JS-Disign-Patterns/tree/master/Facade">Look</a>
