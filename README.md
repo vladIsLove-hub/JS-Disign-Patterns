@@ -10,3 +10,5 @@
 6) ```Bridge``` - <a href="https://github.com/vladIsLove-hub/JS-Disign-Patterns/tree/master/Bridge">Look</a>
 7) ```Facade``` - <a href="https://github.com/vladIsLove-hub/JS-Disign-Patterns/tree/master/Facade">Look</a>
 8) ```Composite``` - <a href="https://github.com/vladIsLove-hub/JS-Disign-Patterns/tree/master/Composite">Look</a>
+9) ```Proxy``` - <a href="https://github.com/vladIsLove-hub/JS-Disign-Patterns/tree/master/Proxy">Look</a>
+10) ```CoR``` - <a href="https://github.com/vladIsLove-hub/JS-Disign-Patterns/tree/master/CoR">Look</a>
