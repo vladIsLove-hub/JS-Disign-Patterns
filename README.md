@@ -12,3 +12,5 @@
 8) ```Composite``` - <a href="https://github.com/vladIsLove-hub/JS-Disign-Patterns/tree/master/Composite">Look</a>
 9) ```Proxy``` - <a href="https://github.com/vladIsLove-hub/JS-Disign-Patterns/tree/master/Proxy">Look</a>
 10) ```CoR``` - <a href="https://github.com/vladIsLove-hub/JS-Disign-Patterns/tree/master/CoR">Look</a>
+11) ```Command``` - <a href="https://github.com/vladIsLove-hub/JS-Disign-Patterns/tree/master/Command">Look</a>
+12) ```Observer``` - <a href="https://github.com/vladIsLove-hub/JS-Disign-Patterns/tree/master/Observer">Look</a>
