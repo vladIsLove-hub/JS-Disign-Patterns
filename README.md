@@ -14,4 +14,4 @@
 10) ```CoR``` - <a href="https://github.com/vladIsLove-hub/JS-Disign-Patterns/tree/master/CoR">Look</a>
 11) ```Command``` - <a href="https://github.com/vladIsLove-hub/JS-Disign-Patterns/tree/master/Command">Look</a>
 12) ```Observer``` - <a href="https://github.com/vladIsLove-hub/JS-Disign-Patterns/tree/master/Observer">Look</a>
-12) ```Strategy``` - <a href="https://github.com/vladIsLove-hub/JS-Disign-Patterns/tree/master/Strategy">Look</a>
+13) ```Strategy``` - <a href="https://github.com/vladIsLove-hub/JS-Disign-Patterns/tree/master/Strategy">Look</a>
